@@ -1,0 +1,29 @@
+body{
+    margin:0px;
+    padding: 0px;
+    background-color: #166d3b;
+    background-image: linear-gradient(147deg, #166d3b 0%, #000000 74%);    
+    background-attachment: fixed;
+}
+
+.row{
+    border: 50px solid green;
+    width: 550px;
+    padding: 40px;
+    background-color: black;
+    margin-left: 410px;
+    border-radius: 20px;
+}
+
+.digital-clock{
+    font-size: 80px;
+    font-family: digital-7;
+    color: rgb(14, 235, 14);
+}
+
+p{
+    text-align: center;
+    font-size: 80px;
+    color: rgb(14, 235, 14);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
